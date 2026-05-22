@@ -4,9 +4,7 @@ An algorithmic simulation engine built to optimize order-picking routes for indu
 
 
 
-![Warehouse Path Optimization Dashboard](image.png)
-*(Note: Replace "image.png" with the actual screenshot of your Matplotlib popup window!)*
-
+path opyimizer.png 
 ---
 
 ## 🚀 The Core Engineering Problem
