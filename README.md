@@ -4,7 +4,7 @@ An algorithmic simulation engine built to optimize order-picking routes for indu
 
 
 
-Path optimizer.png
+Path%20optimizer.png
 ---
 
 ## 🚀 The Core Engineering Problem
