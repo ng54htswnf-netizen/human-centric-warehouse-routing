@@ -4,7 +4,7 @@ An algorithmic simulation engine built to optimize order-picking routes for indu
 
 
 
-Path%20optimizer.png
+![Warehouse Path Optimization Dashboard](pathoptimizer.png)
 ---
 
 ## 🚀 The Core Engineering Problem
